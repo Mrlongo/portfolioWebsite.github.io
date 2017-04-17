@@ -8,34 +8,160 @@ div, a, p, h3 {
   margin: 0px;
 }
 
-h3 {
-  padding: 20px 0px;
-  color: #666666;
-}
-
 .content {
-  width: 960px;
+  width: 1500px;
   margin: 0px auto;
 }
-
-.centered {
-  width: 1000px;
-  margin: auto;
+.content2 {
+  width: 0px;
+  margin: 0px auto;
 }
-.centered1 {
-    padding-bottom: px;
-    margin-bottom: 
+.content3 {
+  width: 750px;
+  margin: 0px auto;
+  float: left;
+}
+.tabletext {
+  width: 390px;
+  height:500px;
+  padding-left: 12px;
+  padding-top: 22px;
+  margin: px auto;
+  float: left;
+  font-size: 15px;
+  background-color: #c9c9c9;
+}
+.title {
+  width: 390px;
+  padding-left: 20px;
+  margin-right: 1500px;
+  float: left;
+  background-color: gray;
+    
+}
+.centered {
+  margin-right: 175px;
 }
 
 .thumbnail {
-  width: 160px;
-  height: 160px;
-  background-color: #ddd;
-  margin: 16px;
+  width: 400px;
+  height: 400px;
+  background-color:;
+  margin: 50px;
   float: left;
   cursor: pointer;
 }
+.thumbnail2 {
+  width: 1000px;
+  background-color:;
+  margin: 5px;
+  margin-right: px;
+}
+.thumbnail3 {
+   width: 300px;
+  height: 400px;
+  background-color:gainsboro;
+  margin: 51px;
+  float: left;
+  margin-left: 350px;
+}
+.thumbnail4 {
+   width: 800px;
+  height: 400px;
+  margin: 51px;
+  float: left;
+  margin-left: px;
+}
+h1 {
+  padding: 0px;
+  color: white;
+}
+h3 {
+  width: 400px;
+  height: px;
+  margin: px;
+  float: left;
+  margin-left: 30px;
+}
+h4 {
+  width: 475px;
+  height: px;
+  margin: px;
+  float: left;
+  margin-left: 30px;
+}
+h5 {
+  width: 400px;
+  height: 100px;
+  float: left;
+    padding-top: 30px;
+  margin-left: 30px;
+}
 
+h6 {
+  width: 475px;
+  height: px;
+  margin: px;
+  float: left;
+  padding-top: 30px;
+  margin-left: 30px;
+}
+h7 {
+  width: 400px;
+  height: 100px;
+  float: left;
+    padding-top: 30px;
+  margin-left: 30px;
+}
+h8 {
+  width: 900px;
+  height: 100px;
+  float: left;
+  padding-top: 0px;
+  margin-left: 90px;
+}
+h9 {
+  width: 475px;
+  height: px;
+  margin: px;
+  float: left;
+  padding-top: 30px;
+  margin-left: 30px;
+}
+h10 {
+  width: 475px;
+  height: 100px;
+  float: left;
+    padding-top: 30px;
+  margin-left: 30px;
+}
+h11 {
+  width: 475px;
+  height: 100px;
+  float: left;
+  margin-left: 70px;
+}
+h12 {
+  width: 500px;
+  height: 100px;
+  float: left;
+  margin-left: 0px;
+}
+h13 {
+  width: 475px;
+  height: px;
+  margin: px;
+  float: left;
+  padding-top: 30px;
+  margin-left: 30px;
+}
+h14 {
+  width: 475px;
+  height: 100px;
+  float: left;
+    padding-top: 30px;
+  margin-left: 30px;
+}
 .text {
   color: #666666;
   padding-top: 20px;
@@ -45,9 +171,10 @@ h3 {
 }
 
 .menu {
-  background-color: #FF8C00;
+  background-color: #ff7547;
   width: 100%;
   height: 115px;
+    margin-right: px;
 }
 .submenu {
   background-color: #C9C9C9;
@@ -57,10 +184,11 @@ h3 {
 }
 
 .links {
-  width: 80px;
+  width: 20px;
   float: right;
   color: #ffffff;
-  margin-top: 50px;
+  margin-top: 20px;
+  margin-right: 80px;
   margin-left: 20px;
   text-align: right;
 }
@@ -73,9 +201,9 @@ h3 {
   float: left;
   position: relative;
     left: 45%;
-  font-size: 45px;
+  font-size: 70px;
   color: white;
-  margin-top: 35px;
+  margin-top: 3px;
 }
 .brand2 {
   float: left;
